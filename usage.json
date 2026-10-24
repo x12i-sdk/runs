@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/runs",
+  "packageVersion": "0.4.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/runs",
+  "usageRepository": "https://github.com/x12i-sdk/runs",
+  "sourceRepository": "https://github.com/x12i/web-agentic-tools",
+  "sourceCommit": "adaddecd37858d6622bc977363c951988ef7b0a4",
+  "sourcePackageDirectory": "packages/runs",
+  "example": {
+    "title": "Track an operation through an in-memory run lifecycle",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T12:32:48.781661+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "789da87f78a718f38466be4d2de32c9948d8e1391b6b00651d1298f8862263fa",
+    "manifestSha256": "386a99ff03734b368b5a4ac7baf4e1efaba831cc86f5cd29f3b3d5faee8f4468"
+  }
+}
