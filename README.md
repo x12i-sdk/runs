@@ -19,8 +19,8 @@ npm start
 
 ## When to use the package
 
-- A consumer needs the following capability: Run state machine, event stream, cancellation, checkpoints, and in-memory run storage. No HTTP.
-- A Runs integration needs to reuse the capabilities of @x12i/runs inside a larger application.
+- Track a workflow through state transitions and an event stream.
+- Cancel or checkpoint a run using the included in-memory store without adding HTTP hosting.
 
 ## Links
 
